@@ -14,6 +14,7 @@
  */
 
 get_header(); ?>
+<?php echo "jfhkfj"; ?>
 
 <?php do_action( 'cyberchimps_before_container' ); ?>
 
